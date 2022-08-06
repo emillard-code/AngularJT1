@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularJT1';
+
+  message : any = "my message";
 }
